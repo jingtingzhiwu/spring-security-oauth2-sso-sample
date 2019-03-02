@@ -1,1 +1,1 @@
-# spring-security-oauth2-sso-sample
+# 微服务之间单点登录 Demo
